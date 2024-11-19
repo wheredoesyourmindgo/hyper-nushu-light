@@ -1,0 +1,21 @@
+{
+  "name": "hyper-nushu-light",
+  "version": "1.0.0",
+  "description": "A light theme for Hyper inspired by the Nüshu VSCode theme",
+  "main": "index.js",
+  "keywords": [
+    "hyper",
+    "theme",
+    "nushu",
+    "light"
+  ],
+  "author": {
+    "email": "moemanchu@icloud.com",
+    "url": "https://github.com/wheredoesyourmindgo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wheredoesyourmindgo/hyper-nushu-light"
+  },
+  "license": "MIT"
+}
