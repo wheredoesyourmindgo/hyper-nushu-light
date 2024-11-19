@@ -1,6 +1,6 @@
 {
   "name": "hyper-nushu-light",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A light theme for Hyper inspired by the Nüshu VSCode theme",
   "main": "index.js",
   "keywords": [
