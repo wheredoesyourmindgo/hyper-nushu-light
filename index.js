@@ -39,7 +39,7 @@ module.exports.decorateConfig = (config) => {
       },
       .header_header {
         background-color: #efedea;
-      },
+      }
       .header_header .tabs_title {
         color: #2b2822; 
       }
