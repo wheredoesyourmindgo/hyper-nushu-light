@@ -39,6 +39,10 @@ module.exports.decorateConfig = (config) => {
       },
       .header_header {
         background-color: #efedea;
+      },
+      .tabs_empty ~ .header_header {
+        background-color: #efedea;
+        color: #656d76; 
       }
     `,
   };
